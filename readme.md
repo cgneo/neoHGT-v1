@@ -33,7 +33,7 @@ File name | Functionality
 
 ## Installation
 The project is written in Python3.<br>
-Recommend installation method:
+Recommended installation method:
 
 ```
 python setup.py install --record location.txt
