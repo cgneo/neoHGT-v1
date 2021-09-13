@@ -62,7 +62,7 @@ The problem with HGTector's databasr.py is that it uses FTP library for download
 
 neoHGT adated `urllib` instead of FTP to solve the `EOFError` in the downloading phase.
 
-
+<hr/>
 
 Another common problem with HGTector's databasr.py is that in the diamond database compiling phase, most users will encounter [Error: Tokenizer Exception](https://github.com/qiyunlab/HGTector/issues/76).
 
