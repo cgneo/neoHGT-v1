@@ -66,7 +66,7 @@ neoHGT adated `urllib` instead of FTP to solve the `EOFError` in the downloading
 
 Another common problem with HGTector's databasr.py is that in the diamond database compiling phase, most users will encounter [Error: Tokenizer Exception](https://github.com/qiyunlab/HGTector/issues/76).
 
-I personally solved this problem by replacing the `prot.accession2taxid.gz` with the official one avaliable on NCBI: [click here to download](ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/accession2taxid/prot.accession2taxid.gz).
+I personally solved this problem by replacing the `prot.accession2taxid.gz` with the official one avaliable on NCBI: ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/accession2taxid/prot.accession2taxid.gz.
 
 
 Please refer to [HGTector's Database](https://github.com/qiyunlab/HGTector/blob/master/doc/database.md) for more information.
