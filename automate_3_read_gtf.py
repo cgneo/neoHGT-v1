@@ -21,7 +21,7 @@
 
 
 """
-│	⬇️ Mandatory:
+│	⬇️ Mandatory !!!
 │	Enter the folder name that contains a subfolder called "hgts" which contains a txt file
 """
 #============================================================

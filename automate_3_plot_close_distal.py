@@ -29,7 +29,7 @@ list_of_protein_id = [  'WP_162306552.1',
 
 
 """ 
-│	⬇️ Mandatory!!!
+│	⬇️ Mandatory !!!
 │	Please enter the name of the folder
 │	that contains the "scores.tsv" file,
 │	which is generated after running analyze.py

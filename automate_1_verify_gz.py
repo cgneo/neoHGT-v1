@@ -20,7 +20,7 @@ from auto_print_progress import printProgressBar
 
 
 """
-│	(optional)
+│	(optional):
 │	Please choose the directory containing .gz files for database:
 │	For example:
 │	directory = './hgtdb'

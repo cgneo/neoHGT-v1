@@ -26,7 +26,7 @@
 
 
 """ 
-│	⬇️ Mandatory!!!
+│	⬇️ Mandatory !!!
 │	Please enter the filename of the diamond BLASTP search result
 │	For example:
 │	folder_name = "./diamond_result.tsv"

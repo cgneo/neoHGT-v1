@@ -24,7 +24,7 @@ import ftplib
 
 
 """
-│	(optional)
+│	(optional):
 │	Change the directory where you want to save the RefSeq summary:
 │	For example:
 │	output = './hgtdb'
