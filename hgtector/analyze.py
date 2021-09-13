@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 # ----------------------------------------------------------------------------
 # Copyright (c) 2013--, Qiyun Zhu and Katharina Dittmar.
 #

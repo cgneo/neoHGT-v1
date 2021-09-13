@@ -3,7 +3,7 @@
 │	
 │	Filename:	setup.py
 │	Overview:
-│	Installing neoHGT
+│	Installing script for neoHGT (contextlib2)
 │	==================================================
 │	Authorship:	@cgneo
 │	Copyright:	Modified BSD License.

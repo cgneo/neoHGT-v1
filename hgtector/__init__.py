@@ -25,5 +25,5 @@ __description__ = (
     '\033[94m neoHGT by @cgneo\033[0m: based on HGTector (developed by qiyun lab)')
 __license__ = 'BSD-3-Clause'
 __author__ = 'cgneo'
-__email__ = 'qiyunzhu@gmail.com'
+__email__ = 'https://github.com/cgneo/neoHGT'
 __url__ = 'https://github.com/cgneo'

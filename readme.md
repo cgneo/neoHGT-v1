@@ -1,7 +1,7 @@
 
 <p align="center">
 	<a href="https://github.com/cgneo/neoHGT">
-		<img src="./neoHGT.png" width="300">
+		<img src="./neoHGT.png" width="250">
 	</a><br>
 </p>
 

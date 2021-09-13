@@ -33,7 +33,7 @@ import pandas as pd
 #============================================================
 """
 │	Mandatory!!!
-│	Please install the following dependancies:
+│	The following dependancy should be installed while running setup:
 │	contextlib:	pip install contextlib2
 """
 

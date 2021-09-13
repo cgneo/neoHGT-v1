@@ -3,7 +3,7 @@
 │	
 │	Filename:	search.py
 │	Description:
-│	Added try {} except {} to make program more robust
+│	Added "try {} except {}" to make program more robust
 │	==================================================
 │	Authorship:
 │	Copyright:	Modified BSD License.

@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2013-2020, cgneo, Qiyun Zhu, and Katharina Dittmar
+Copyright (c) 2013-2020, cgneo @https://github.com/cgneo, Qiyun Zhu, and Katharina Dittmar
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
