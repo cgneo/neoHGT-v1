@@ -65,5 +65,6 @@ def get_summary(target):
 #============================================================
 #df = pd.concat([df, get_summary('GenBank')])
 #============================================================
-df = get_summary('RefSeq')
+#df = get_summary('RefSeq')
+df = get_summary('GenBank')
 print(f'Total number of genomes: {df.shape[0]}.')
