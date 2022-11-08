@@ -5,7 +5,7 @@
 	</a><br>
 </p>
 
-# neoHGT: Lateral gene transfer in Archaea
+# neoHGT: Horizontal gene transfer in Archaea
 
 
 ## Table of Contents
@@ -22,8 +22,9 @@
 
 File name | Functionality
 --- | ---
-`automate_1_verify_gz.py` | To verify the integrity of `.gz` files and print the corrupted ones' file names (because a single corrupted file will cause building database to fail).
-`automate_1_NCBI_downloadLink.py` | To obtain a `.txt` summary of all the NCBI RefSeq's descriptions and download links so that you can download the corrupted files.
+`automate_1.1_NCBI_downloadLink.py` | To obtain a `.txt` summary of all the NCBI RefSeq's descriptions and download links so that you can download the corrupted files.
+`automate_1.2_download_print_progress.py` | Given the `.txt` summary of all the NCBI RefSeq's descriptions, we can now download the `.gz` files.
+`automate_1.3_verify_gz.py` | To verify the integrity of `.gz` files and print the corrupted ones' file names (because a single corrupted file will cause building database to fail).
 `automate_2_sort_escore.py` | (Pre-requisite: doing a native diamond search) To sort each of the BLASTP result by e-score, filter out results (for example, we're interested in the proteins where aftering sorting by e-score, the second one must be a bacteria), and then output the list of proteins that fits the pattern and save it into `Excel` or `CSV` file.
 `automate_3_read_gtf.py` | To generate `Excel` file with human-readable annotations (see "product" column) for HGTector: analysis.py's generated txt file (containing the predicted HGT-derived genes).
 `automate_3_plot_close_distal.py` | To print close and distal scores in the console so that you can copy paste them into analyze.py in order to make a scatter plot with labels.
