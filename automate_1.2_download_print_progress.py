@@ -10,7 +10,7 @@
 │	
 ///////////////////////////////////////////////////////
 """
-
+import requests
 
 def printProgressBar(iteration, total, prefix = '', suffix = '', decimals = 1, length = 100, fill = '█', printEnd = "\r"):
 	"""
@@ -31,3 +31,19 @@ def printProgressBar(iteration, total, prefix = '', suffix = '', decimals = 1, l
 	print(f'\r{prefix} |{bar}| {percent}% {suffix}', end = printEnd)
 	# Print New Line on complete
 	if iteration == total: print()
+
+
+with open("assembly_summary_genbank.txt") as f:
+    temp = f.readlines()
+    counter = 0
+    for line in temp:
+        counter += 1
+        if counter >= 3:
+            list_of_attr = line.split("\t")
+            url = list_of_attr[-4]
+            filename = list_of_attr[-4].split("/")[-1]
+            r = requests.get(url + filename + "_genomic.fna.gz")
+            with open(filename + "_genomic.fna.gz",'wb') as f_temp:
+                f_temp.write(r.content)
+                f_temp.close()
+            print(printProgressBar(counter, 1435104))

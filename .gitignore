@@ -1,1 +1,7 @@
 /.DS_Store
+__pycache__
+build
+dist
+hgtector.egg-info
+/assembly_summary_genbank.txt
+/location.txt
