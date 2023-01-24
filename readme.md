@@ -1,6 +1,6 @@
 
 <p align="center">
-	<a href="https://github.com/cgneo/neoHGT">
+	<a href="https://github.com/cozv/neoHGT">
 		<img src="./neoHGT.png" width="250">
 	</a><br>
 </p>
