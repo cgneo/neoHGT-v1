@@ -92,14 +92,19 @@ For your convenience, run `automate_3_plot_close_distal.py` to copy paste a list
 To perform analysis, please refer to [HGTector's Analyze](https://github.com/qiyunlab/HGTector/blob/master/doc/analyze.md) for more information.
 
 
+## Publication
+
+> This repository was a result of my internship at LOB - Laboratoire d'Optique et Biosciences, where we published a paper titied [Bacterial origin of thymidylate and folate metabolism in Asgard Archaea](https://hal.science/hal-03855599/)
+
 
 ## Works cited
 
 > Zhu Q, Kosoy M, Dittmar K. HGTector: [an automated method facilitating genome-wide discovery of putative horizontal gene transfers](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-717). *BMC Genomics*. 2014. 15:717.
 
+
 ## License
 
-Copyright (c) 2021, [cgneo](https://github.com/cgneo). Licensed under [BSD 3-clause](http://opensource.org/licenses/BSD-3-Clause).
+Copyright (c) 2021, [Zhihui Li](https://github.com/cozv). Licensed under [BSD 3-clause](http://opensource.org/licenses/BSD-3-Clause).
 
 
 Copyright (c) 2013-2020, [Qiyun Zhu](mailto:qiyunzhu@gmail.com) and [Katharina Dittmar](mailto:katharinad@gmail.com). Licensed under [BSD 3-clause](http://opensource.org/licenses/BSD-3-Clause). See full license [statement](LICENSE).
