@@ -94,7 +94,10 @@ To perform analysis, please refer to [HGTector's Analyze](https://github.com/qiy
 
 ## Publication
 
-> This repository was a result of my internship at LOB - Laboratoire d'Optique et Biosciences, where we published a paper titied [Bacterial origin of thymidylate and folate metabolism in Asgard Archaea](https://hal.science/hal-03855599/)
+This repository was a result of my internship at LOB - Laboratoire d'Optique et Biosciences, where we published a paper titied [Bacterial origin of thymidylate and folate metabolism in Asgard Archaea](https://www.nature.com/articles/s41467-023-36487-z) on Nature Communication.
+
+> Filée, J., Becker, H. F., Mellottee, L., Eddine, R. Z., Li, Z., Yin, W., Lambry, J.-C., Liebl, U., & Myllykallio, H. (2023, February 15). Bacterial origins of thymidylate metabolism in Asgard Archaea and Eukarya. Nature Communication. Retrieved February 18, 2023, from https://www.nature.com/articles/s41467-023-36487-z
+
 
 
 ## Works cited
