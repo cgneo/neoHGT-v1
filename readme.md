@@ -7,8 +7,9 @@
 
 # neoHGT: Horizontal gene transfer in Archaea
 
-You are visiting neoHGT v1
-🎉 neoHGT v2 has been officially released and can be found [here](https://www.github.com/neoLIZV/neoHGT).
+You are visiting neoHGT v1, which is no longer maintained.
+
+Please visit neoHGT v2 which can be found [here](https://www.github.com/neoLIZV/neoHGT).
 
 ## Table of Contents
 1. [About](#about)
