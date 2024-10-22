@@ -110,7 +110,7 @@ This repository was a result of my internship at LOB - Laboratoire d'Optique et 
 
 ## License
 
-Copyright (c) 2021, [Zhihui Li](https://github.com/cozv). Licensed under [BSD 3-clause](http://opensource.org/licenses/BSD-3-Clause).
+Copyright (c) 2021, Zhihui Li. Licensed under [BSD 3-clause](http://opensource.org/licenses/BSD-3-Clause).
 
 
 Copyright (c) 2013-2020, [Qiyun Zhu](mailto:qiyunzhu@gmail.com) and [Katharina Dittmar](mailto:katharinad@gmail.com). Licensed under [BSD 3-clause](http://opensource.org/licenses/BSD-3-Clause). See full license [statement](LICENSE).
