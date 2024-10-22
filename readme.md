@@ -9,7 +9,7 @@
 
 You are visiting neoHGT v1, which is no longer maintained.
 
-Please visit neoHGT v2 which can be found [here](https://www.github.com/neoLIZV/neoHGT).
+Please visit neoHGT v2 which can be found [here](https://www.github.com/cgneo/neoHGT).
 
 ## Table of Contents
 1. [About](#about)
